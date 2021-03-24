@@ -1,2 +1,4 @@
 # SPACE-KID
-a video game 
+menu for a video game. 
+Download and compile.
+python 3.8
